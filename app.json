@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "espetos",
+    "slug": "espetos",
+    "version": "1.0.0",
+    "splash": {
+      "image": "./assets/SplashEspetos.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ec7154"
+    },
+    "icon": "./assets/IconEspetos.png",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "y"
+    },
+    "android": {
+      "package": "com.jeftermnb.espetos"
+    }
+  },
+  "name": "espetos"
+}
